@@ -1,0 +1,30 @@
+{
+	"companyName": "I Scream Inc. ",
+	"headOffice": "Barrie, Ontario",
+	"established": 2001,
+	"active": true,
+	"topFlavours": [{
+			"name": "Monstrous Mint",
+			"calories": 800,
+			"type": "ice cream",
+			"ingredients": ["shit", "cat", "dog"],
+			"image": "chocolate-mint.svg"
+		},
+		{
+			"name": "Peach Mango",
+			"calories": 550,
+			"type": "sorbet",
+			"ingredient": ["peach", "mango", "honey"],
+			"image": "peach-mango.svg"
+		},
+		{
+			"name": "Stupid Strawberry",
+			"calories": 300,
+			"type": "ice cream",
+			"ingredient": ["strawberry", "cat"],
+			"image": "strawberry-sprinkle.svg"
+		}
+	]
+
+
+}
