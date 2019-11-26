@@ -14,14 +14,14 @@
 			"name": "Peach Mango",
 			"calories": 550,
 			"type": "sorbet",
-			"ingredient": ["peach", "mango", "honey"],
+			"ingredients": ["peach", "mango", "honey"],
 			"image": "peach-mango.svg"
 		},
 		{
 			"name": "Stupid Strawberry",
 			"calories": 300,
 			"type": "ice cream",
-			"ingredient": ["strawberry", "cat"],
+			"ingredients": ["strawberry", "cat"],
 			"image": "strawberry-sprinkle.svg"
 		}
 	]
